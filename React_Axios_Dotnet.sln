@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React_Axios_Dotnet", "React_Axios_Dotnet.csproj", "{983BD9F7-DEB4-41CB-9A1C-96DB9F0DBDF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983BD9F7-DEB4-41CB-9A1C-96DB9F0DBDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983BD9F7-DEB4-41CB-9A1C-96DB9F0DBDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983BD9F7-DEB4-41CB-9A1C-96DB9F0DBDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983BD9F7-DEB4-41CB-9A1C-96DB9F0DBDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD646F3-9C6C-4405-8066-BA4520BC726B}
+	EndGlobalSection
+EndGlobal
